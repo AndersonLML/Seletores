@@ -1,14 +1,8 @@
 # Seletores
-Repositório de Estudos de Seletores
 
-# SELETOR
-Seletor universal
+<p>Tabela de Seletores</p>
+________________________________________________________________________
 
-# SIGNIFICADO
-Aplica-se em todos os
-elementos no documento 
+* [Seletor_Universal](#Seletor Universal)
 
-# EXEMPLO
-*{}
-Seleciona todos os elementos da
-página
+# Seletor Universal
