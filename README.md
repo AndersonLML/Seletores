@@ -28,8 +28,8 @@ Seleciona elementos pelo
 tipo
 <p>Exemplo</p>
 H1, h2, h3 {}
-Seleciona os elementos <h1>, <h2> e 
-<h3>
+Seleciona os elementos h1, h2 e
+h3
 
 # Seletor-de-Classe
 Seleciona um elemento cujo 
@@ -73,9 +73,9 @@ não apenas filho direto
 desse elemento)
 <p>Exemplo</p>
 p a {}
-Seleciona quaisquer elementos <a> 
+Seleciona quaisquer elementos <a>
 que residem dentro de um elemento 
-<p>, mesmo e houver outros 
+p, mesmo e houver outros 
 elementos aninhados entre eles
 
 # Seletor-de-Irmao-Adjacente
@@ -83,9 +83,9 @@ Seleciona um elemento que
 é o irmão próximo de outro
 <p>Exemplo</p>
 h1+p {}
-Seleciona o primeiro elemento <p>
-depois de qualquer elemento <h1>
-(mas não outros elementos <p>)
+Seleciona o primeiro elemento p
+depois de qualquer elemento h1
+(mas não outros elementos p)
 
 # Seletor-de-Irmao-Geral
 Seleciona um elemento que 
