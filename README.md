@@ -28,8 +28,8 @@ Seleciona elementos pelo
 tipo
 <p>Exemplo</p>
 H1, h2, h3 {}
-Seleciona os elementos h1, h2 e
-h3
+Seleciona os elementos 'h1', 'h2' e
+'h3'
 
 # Seletor-de-Classe
 Seleciona um elemento cujo 
@@ -40,8 +40,8 @@ ponto
 verde{}
 Seleciona qualquer elemento cujo 
 atributo class tem o valor “verde”
-p.verde{}
-Seleciona somente elemento <p> cujo 
+<p> p.verde{}
+Seleciona somente elemento 'p' cujo 
 atributo class tem o valor “verde”
 
 # Seletor-de-ID
@@ -61,7 +61,7 @@ Seleciona um elemento que
 <p>Exemplo</p>
 li>a {}
 Seleciona quaisquer elementos <a> 
-que são filhos de um elemento <li> 
+que são filhos de um elemento 'li'
 (mas não outros elementos a na 
 página
 
@@ -75,7 +75,7 @@ desse elemento)
 p a {}
 Seleciona quaisquer elementos <a>
 que residem dentro de um elemento 
-p, mesmo e houver outros 
+'p', mesmo e houver outros 
 elementos aninhados entre eles
 
 # Seletor-de-Irmao-Adjacente
@@ -83,8 +83,8 @@ Seleciona um elemento que
 é o irmão próximo de outro
 <p>Exemplo</p>
 h1+p {}
-Seleciona o primeiro elemento p
-depois de qualquer elemento h1
+Seleciona o primeiro elemento 'p'
+depois de qualquer elemento 'h1'
 (mas não outros elementos p)
 
 # Seletor-de-Irmao-Geral
@@ -95,6 +95,6 @@ elemento diretamente
 precedente
 <p>Exemplo</p>
 h1~p {}
-Se houvesse dois elementos <p> que 
-fossem irmãos de um elemento <h1>, 
+Se houvesse dois elementos 'p' que 
+fossem irmãos de um elemento h1, 
 essa regra se aplicaria ao dois
